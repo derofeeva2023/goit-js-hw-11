@@ -84,6 +84,7 @@ function renderImageList(images) {
     .join('');
   gallery.innerHTML += markup;
 }
+
 function cleanGallery() {
   gallery.innerHTML = '';
   pageNumber = 1;
