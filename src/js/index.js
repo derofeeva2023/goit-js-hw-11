@@ -10,7 +10,6 @@ const btnLoadMore = document.querySelector('.load-more');
 let gallerySimpleLightbox = new SimpleLightbox('.gallery a');
 
 
-
 btnLoadMore.style.display = 'none';
 
 let pageNumber = 1;
